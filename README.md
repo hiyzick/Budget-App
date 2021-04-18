@@ -1,2 +1,2 @@
-# Budget App
- Solution to the budget app task on Zuri training
+# Budget APP
+ Task given on Zuri
